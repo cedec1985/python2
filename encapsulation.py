@@ -23,5 +23,4 @@ class Spam:
 s=Spam()
 s.print_egg()
 print(s._Spam__egg)
-print(s.__egg)
 
